@@ -1,3 +1,3 @@
 # Indice de lectura
 Portafolio Personal de Análisis de Datos
-Acontinución encontrara los ejercioso de programación para el análisis de datos de Utalento Tech:
+A continuación, encontrara los ejercicios de programación para el análisis de datos de Utalento-Tech:
